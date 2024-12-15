@@ -63,5 +63,5 @@ Detailed documentation on setting up the test environment, running tests, and re
 
 For any questions or support, please contact:
 - **Võ Văn Anh Pha**
-- **Email**: example@example.com
-- **Phone**: 123-456-7890
+- **Email**: anhphavovan@gmail.com
+- **Phone**: 078-771-1657
